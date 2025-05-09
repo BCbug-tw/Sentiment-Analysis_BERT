@@ -2,6 +2,7 @@
 
 
 This project uses the BERT model to perform sentiment classification on the sentiment140 dataset. The task is a binary classification (positive and negative), serving as a practical example of sentiment analysis in the NLP field.
+
 ---
 
 ## Dataset
