@@ -1,0 +1,2 @@
+models/best_model_epoch3/model.safetensors filter=lfs diff=lfs merge=lfs -text
+dataset/training.1600000.processed.noemoticon.csv filter=lfs diff=lfs merge=lfs -text
