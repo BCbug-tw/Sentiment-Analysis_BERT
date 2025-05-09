@@ -46,7 +46,7 @@ You can open and execute the notebook using Jupyter Notebook or VS Code. The key
 </div>
 
 ### Confusion Matrix
-![image1](<results/confusion matrix.jpg> "confusion matrix")
+![image1](<results/confusion_matrix.jpg> "confusion matrix")
 
 ---
 
