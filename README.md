@@ -36,14 +36,12 @@ You can open and execute the notebook using Jupyter Notebook or VS Code. The key
 
 ## Evaluation
 ### Precision, Recall & F1-score
-<div align="center">
 
- Categories|Precision| Recall | F1-score
- :-------|:------: | :------: | :------: 
- Negitive|0.87   |   0.88  | 0.87
- Pocitive|0.88   |   0.87  | 0.87
+|Categories|Precision| Recall | F1-score|
+|:-------|:------: | :------: | :------: |
+|Negitive|0.87   |   0.88  | 0.87|
+|Pocitive|0.88   |   0.87  | 0.87|
 
-</div>
 
 ### Confusion Matrix
 ![image1](<results/confusion_matrix.jpg> "confusion matrix")
