@@ -11,9 +11,9 @@ The dataset is based on the open-source[Sentiment140 dataset with 1.6 million tw
 ---
 
 ## Technologies Used
-- Model: ```bert-base-chinese```
-- Frameworks: HuggingFace Transformers、Datasets
-- Evaluation: Precision、Recall、F1-Score、混淆矩陣
+- Model: ```bert-base-uncased```
+- Frameworks: HuggingFace Transformers, Datasets
+- Evaluation: Precision, Recall, F1-Score, Confusion Matrix
 
 ---
 
